@@ -1,0 +1,14 @@
+[
+    {
+        "outputFileName": "wwwroot/js/home.js",
+        "inputFiles": [
+            "wwwsrc/js/home.js"
+        ]
+    },
+    {
+        "outputFileName": "wwwroot/css/home.css",
+        "inputFiles": [
+            "wwwsrc/css/home.css"
+        ]
+    }
+]
